@@ -20,5 +20,5 @@ Add Samus's ball your web site
 
 `samusball.js` is hosted by [RawGit](http://rawgit.com/).
 ```
-<script src="https://cdn.rawgit.com/egapool/samusball/master/samusball.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/egapool/samusball@master/samusball.js"></script>
 ```
